@@ -9,3 +9,4 @@ r= annual rate of interest
 
 Output:
 simple interest= ptr
+
