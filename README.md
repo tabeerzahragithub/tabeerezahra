@@ -10,4 +10,4 @@ r= annual rate of interest
 Output:
 simple interest= ptr
 
-_ 2022 XYZ,Inc._
+
